@@ -24,7 +24,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/student-result-processing-system.git
+git clone https://github.com/esk-shiva/Students-Results-Management-System.git
 Set up the database:
 
 Install MySQL and create a database named student_results.
@@ -40,7 +40,7 @@ Ensure the server configuration matches your setup.
 Run the application:
 
 Start the Apache Tomcat server.
-Access the application at http://localhost:8080/student-result-processing-system.
+Access the application at http://localhost:8080/Students-Results-Management-System.
 Usage
 Administrator:
 
@@ -57,5 +57,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
-For any questions or inquiries, please contact nithishjaligapu123@gmail.com.
